@@ -40,7 +40,7 @@ java -jar job4j_url_shortcut-1.0.0.jar
 # Использование сервиса:
 
 Документацию по API сервиса Вы можете найти по ссылке
-[Документация по API](https://app.swaggerhub.com/apis/vsolomatoff/url-shortcut_system_api/1.0.0#/)
+[Документация по API](https://app.swaggerhub.com/apis-docs/vsolomatoff/url-shortcut_system_api/1.0.0)
 
 
 
